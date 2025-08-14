@@ -1,0 +1,5 @@
+langchain
+python-dotenv
+streamlit
+pdfminer.six
+python-docx
